@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a passionate Data Science enthusiast with a k
 
 Here are some of my popular repositories:
 
-- [Stock Price Comparison](https://github.com/dastagirireddy/Stock-Price-Comparison): A Streamlit app for comparing stock prices using yfinance.
+- [Stock Price Comparison](https://github.com/Venkata-dastagirireddy/Stock-Comparision-app.git): A Streamlit app for comparing stock prices using yfinance.
 
 ## Let's Connect!
 
